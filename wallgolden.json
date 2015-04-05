@@ -2,30 +2,46 @@
 "wallpapers": 
 	[ 
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://imgur.com/29MneTE",
-			"name": "Wall1"
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/29MneTE.jpg",
+			"name": "Wall 1"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://imgur.com/AeENIBA",
-			"name": "Wall2"
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/AeENIBA.jpg",
+			"name": "Wall 2"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://imgur.com/mDaRR0T",
-			"name": "Red Circles"
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/mDaRR0T.jpg",
+			"name": "Wall 3"
 		},
 		{
-			"author": "Jahir Fiquitiva",
+			"author": "Tom Ver",
 			"url": "http://i.imgur.com/FSlsYGK.jpg",
 			"name": "Wall 4"
 		},
 		{
-			"author": "Jahir Fiquitiva",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
-			"name": "Green Lines"
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/QRYNGJ7.jpg",
+			"name": "Wall 5"
 		}
+		{
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/rXAgw1W.jpg",
+			"name": "Wall 6"
+		}
+		{
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/JMzKJqo.png",
+			"name": "Wall 7"
+		}
+		{
+			"author": "Tom Ver",
+			"url": "http://i.imgur.com/e3VmN3x.jpg",
+			"name": "Wall 8"
+		}
+		
 		 
 	]
 }
