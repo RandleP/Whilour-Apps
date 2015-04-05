@@ -1,0 +1,31 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://imgur.com/29MneTE",
+			"name": "Wall1"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://imgur.com/AeENIBA",
+			"name": "Wall2"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://imgur.com/mDaRR0T",
+			"name": "Red Circles"
+		},
+		{
+			"author": "Jahir Fiquitiva",
+			"url": "http://i.imgur.com/FSlsYGK.jpg",
+			"name": "Wall 4"
+		},
+		{
+			"author": "Jahir Fiquitiva",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
+			"name": "Green Lines"
+		}
+		 
+	]
+}
