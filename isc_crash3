@@ -1,0 +1,18 @@
+android.content.res.Resources$NotFoundException: File res/drawable-nodpi-v4/ic_launcher.png from drawable resource ID #0x7f02058f
+	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2770)
+	at android.content.res.Resources.loadDrawable(Resources.java:2670)
+	at android.content.res.Resources.getDrawable(Resources.java:843)
+	at android.content.res.Resources.getDrawable(Resources.java:818)
+	at android.content.Context.getDrawable(Context.java:458)
+	at android.support.v4.content.ContextCompatApi21.getDrawable(ContextCompatApi21.java:26)
+	at android.support.v4.content.ContextCompat.getDrawable(ContextCompat.java:321)
+	at jahirfiquitiva.iconshowcase.tasks.LoadAppsToRequest.<init>(LoadAppsToRequest.java:84)
+	at jahirfiquitiva.iconshowcase.utilities.ApplicationBase.loadAppsForRequest(ApplicationBase.java:81)
+	at jahirfiquitiva.iconshowcase.utilities.ApplicationBase.access$100(ApplicationBase.java:40)
+	at jahirfiquitiva.iconshowcase.utilities.ApplicationBase$1.run(ApplicationBase.java:67)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: java.io.FileNotFoundException: res/drawable-nodpi-v4/ic_launcher.png
+	at android.content.res.AssetManager.openNonAssetNative(Native Method)
+	at android.content.res.AssetManager.openNonAsset(AssetManager.java:423)
+	at android.content.res.Resources.loadDrawableForCookie(Resources.java:2763)
+	... 11 more
