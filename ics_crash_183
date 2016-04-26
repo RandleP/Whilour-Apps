@@ -14,7 +14,7 @@ java.lang.ClassCastException: android.app.Application cannot be cast to android.
 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1399)
 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1194)
 	
-Crash on	Android 4.4
+Crash on Android 4.4
 	
 	java.lang.ClassCastException: android.app.Application cannot be cast to android.app.Activity
 	at jahirfiquitiva.iconshowcase.fragments.WallpapersFragment$DownloadJSON.onPostExecute(WallpapersFragment.java:464)
