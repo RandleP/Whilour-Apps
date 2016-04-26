@@ -1,6 +1,6 @@
 Crash on Android 5.0
 
-java.lang.ClassCastException: android.app.Application cannot be cast to android.app.Activity
+	java.lang.ClassCastException: android.app.Application cannot be cast to android.app.Activity
 	at jahirfiquitiva.iconshowcase.fragments.WallpapersFragment$DownloadJSON.onPostExecute(WallpapersFragment.java:464)
 	at jahirfiquitiva.iconshowcase.fragments.WallpapersFragment$DownloadJSON.onPostExecute(WallpapersFragment.java:373)
 	at android.os.AsyncTask.finish(AsyncTask.java:632)
