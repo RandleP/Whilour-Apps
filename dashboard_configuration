@@ -9,11 +9,6 @@
         <item>google_donations_catalog</item>
     </string-array>
 
-
-    <!--
-       Credits and settings will automatically be added as secondary items
-   -->
-
     <string-array name="nonconsumable_google_donation_items">
         <item>soda</item>
         <item>meal</item>
