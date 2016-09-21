@@ -1,0 +1,30 @@
+<string-array name="primary_drawer_items">
+        <item>Previews</item>
+        <item>Wallpapers</item>
+        <item>Requests</item>
+        <item>Apply</item>
+        <item>FAQs</item>
+        <item>nonconsumable_google_donation_items</item>
+        <item>consumable_google_donation_items</item>
+        <item>google_donations_catalog</item>
+    </string-array>
+
+
+    <!--
+       Credits and settings will automatically be added as secondary items
+   -->
+
+    <string-array name="nonconsumable_google_donation_items">
+        <item>soda</item>
+        <item>meal</item>
+    </string-array>
+
+    <string-array name="consumable_google_donation_items">
+        <item>soda</item>
+        <item>meal</item>
+    </string-array>
+
+    <string-array name="google_donations_catalog">
+        <item>donate2</item>
+        <item>donate5</item>
+    </string-array>
