@@ -1,0 +1,10 @@
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.TimSort.mergeLo(TimSort.java:761)
+	at java.util.TimSort.mergeAt(TimSort.java:497)
+	at java.util.TimSort.mergeForceCollapse(TimSort.java:440)
+	at java.util.TimSort.sort(TimSort.java:219)
+	at java.util.Arrays.sort(Arrays.java:1998)
+	at java.util.Collections.sort(Collections.java:1900)
+	at com.pitchedapps.butler.library.icon.request.ComponentInfoUtil.getInstalledApps(Unknown Source)
+	at com.pitchedapps.butler.library.icon.request.IconRequest$1.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:818)
