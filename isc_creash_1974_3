@@ -1,0 +1,32 @@
+*** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+CM Version: 'ResurrectionRemix-M-v5.7.4-20161224-n5110'
+Build fingerprint: 'samsung/konawifixx/konawifi:4.4.2/KOT49H/N5110XXDNF1:user/release-keys'
+Revision: '0'
+ABI: 'arm'
+pid: 21743, tid: 21765, name: Thread-1194  >>> com.whicons.iconpack <<<
+signal 6 (SIGABRT), code -6 (SI_TKILL), fault addr --------
+    r0 00000000  r1 00005505  r2 00000006  r3 808a8978
+    r4 808a8980  r5 808a8930  r6 0000000c  r7 0000010c
+    r8 407d2090  r9 00000ce2  sl 00000000  fp 414bbca8
+    ip 00000006  sp 808a7b48  lr 404f46e1  pc 404f6adc  cpsr 40000010
+
+backtrace:
+    #00 pc 00044adc  /system/lib/libc.so (tgkill+12)
+    #01 pc 000426dd  /system/lib/libc.so (pthread_kill+32)
+    #02 pc 0001b963  /system/lib/libc.so (raise+10)
+    #03 pc 00018bd1  /system/lib/libc.so (__libc_android_abort+34)
+    #04 pc 000167f0  /system/lib/libc.so (abort+4)
+    #05 pc 0018d907  /system/lib/libskia.so (_Z15sk_malloc_flagsjj+18)
+    #06 pc 0001439c  /system/lib/libft2.so (ft_mem_qalloc+20)
+    #07 pc 00015ab4  /system/lib/libft2.so (FT_Stream_EnterFrame+84)
+    #08 pc 00015b78  /system/lib/libft2.so (FT_Stream_ExtractFrame+12)
+    #09 pc 00036648  /system/lib/libft2.so
+    #10 pc 00015700  /system/lib/libft2.so
+    #11 pc 000173e4  /system/lib/libft2.so (FT_Open_Face+684)
+    #12 pc 0018f2a7  /system/lib/libskia.so (_ZNK19SkTypeface_FreeType7Scanner8openFaceEP8SkStreamiP13FT_StreamRec_+110)
+    #13 pc 0018f323  /system/lib/libskia.so (_ZNK19SkTypeface_FreeType7Scanner8scanFontEP8SkStreamiP8SkStringP11SkFontStylePb+38)
+    #14 pc 00191fc3  /system/lib/libskia.so
+    #15 pc 00191f27  /system/lib/libskia.so
+    #16 pc 00128cff  /system/lib/libskia.so (_ZN10SkTypeface14CreateFromFileEPKci+20)
+    #17 pc 000914dd  /system/lib/libandroid_runtime.so
+    #18 pc 740243f9  /data/dalvik-cache/arm/system@framework@boot.oat (offset 0x1fc6000)
