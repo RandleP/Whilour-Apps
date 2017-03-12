@@ -1,0 +1,31 @@
+Android 6.0 / Moto G (3rd Gen) (osprey_udstv)
+
+ava.lang.RuntimeException
+in android.os.Parcel.readValue
+
+java.lang.RuntimeException: Unable to start activity ComponentInfo{com.whicons.iconpack/jahirfiquitiva.iconshowcase.activities.ShowcaseActivity}: java.lang.RuntimeException: Parcel android.os.Parcel@6df2115: Unmarshalling unknown type code 2131689625 at offset 820
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2426)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2490)
+	at android.app.ActivityThread.-wrap11(ActivityThread.java)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1354)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:148)
+	at android.app.ActivityThread.main(ActivityThread.java:5443)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:728)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:618)
+Caused by: java.lang.RuntimeException: Parcel android.os.Parcel@6df2115: Unmarshalling unknown type code 2131689625 at offset 820
+	at android.os.Parcel.readValue(Parcel.java:2340)
+	at android.os.Parcel.readSparseArrayInternal(Parcel.java:2675)
+	at android.os.Parcel.readSparseArray(Parcel.java:1967)
+	at android.os.Parcel.readValue(Parcel.java:2321)
+	at android.os.Parcel.readArrayMapInternal(Parcel.java:2614)
+	at android.os.BaseBundle.unparcel(BaseBundle.java:221)
+	at android.os.Bundle.getSparseParcelableArray(Bundle.java:856)
+	at com.android.internal.policy.PhoneWindow.restoreHierarchyState(PhoneWindow.java:2033)
+	at android.app.Activity.onRestoreInstanceState(Activity.java:1008)
+	at jahirfiquitiva.iconshowcase.activities.ShowcaseActivity.onRestoreInstanceState(Unknown Source)
+	at android.app.Activity.performRestoreInstanceState(Activity.java:963)
+	at android.app.Instrumentation.callActivityOnRestoreInstanceState(Instrumentation.java:1186)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2399)
+	... 9 more
