@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Amoled 000000",
+		"author": "Huub Ver",
+		"url": "https://i.imgur.com/jywrZdF.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Stark",
+		"author": "Jahir Fiquitiva",
+		"url": "https://i.imgur.com/YXi0TZo.jpg",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
