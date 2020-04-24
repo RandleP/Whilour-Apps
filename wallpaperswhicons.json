@@ -1,4 +1,6 @@
-[
+{ 
+"wallpapers": 
+	[
 		{
 			"url": "https://i.imgur.com/jywrZdF.jpg",
 			"name": "Amoled 000000"
@@ -181,4 +183,5 @@
 			"name": "Allez"
 		}
 		
-]
+	]
+}
