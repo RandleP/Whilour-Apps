@@ -4,7 +4,6 @@
 		"author": "Jahir Fiquitiva",
 		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
 		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
-		"collections": "GRADIENT|ABSTRACT",
 		"downloadable": true,
 		"size": 345066,
 		"dimensions": "1280 x 720 px",
@@ -15,7 +14,6 @@
 		"author": "Jahir Fiquitiva",
 		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
 		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"collections": "Landscapes,Art,Material Design",
 		"downloadable": false,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
