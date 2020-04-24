@@ -1,8 +1,8 @@
 [
 	{
-		"name": "My wallpaper",
+		"name": "Amoled 000000",
 		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
+		"url": "https://i.imgur.com/jywrZdF.jpg",
 		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
 		"downloadable": true,
 		"size": 345066,
@@ -10,9 +10,9 @@
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
-		"name": "My other wallpaper",
+		"name": "Stark",
 		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"url": "https://i.imgur.com/YXi0TZo.jpg",
 		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
 		"downloadable": false,
 		"copyright": "CreativeCommons Attribution-ShareALike"
