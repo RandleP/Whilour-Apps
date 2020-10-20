@@ -26,13 +26,13 @@
 	{
 		"name": "Grunge",
 		"author": "Randle",
-		"url": "http://i.imgur.com/gqpxuuk.jpg",
+		"url": "https://i.imgur.com/gqpxuuk.jpg",
 		"downloadable": true
 	},
 	{
 		"name": "Groen",
 		"author": "Randle",
-		"url": "http://i.imgur.com/gncbxTo.jpg",
+		"url": "https://i.imgur.com/gncbxTo.jpg",
 		"downloadable": true
 	},
 	{
@@ -75,6 +75,18 @@
 		"name": "Stark",
 		"author": "Randle",
 		"url": "https://i.imgur.com/YXi0TZol.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Covered",
+		"author": "Chris Lawton on Unsplash",
+		"url": "https://i.imgur.com/NVdyrOV.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Crescent",
+		"author": "Griffin Wooldridge",
+		"url": "https://i.imgur.com/My12dvY.jpg",
 		"downloadable": true
 	}
   	
