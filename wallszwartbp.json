@@ -24,6 +24,18 @@
 		"downloadable": true
 	},
 	{
+		"name": "Grunge",
+		"author": "Randle",
+		"url": "http://i.imgur.com/gqpxuuk.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Groen",
+		"author": "Randle",
+		"url": "http://i.imgur.com/gncbxTo.jpg",
+		"downloadable": true
+	},
+	{
 		"name": "Kust",
 		"author": "Clayton Cardinalli on Unsplash",
 		"url": "https://i.imgur.com/kkST5Xz.jpg",
@@ -52,17 +64,6 @@
 		"author": "Randle",
 		"url": "https://i.imgur.com/uAEO3mE.jpg",
 		"downloadable": true
-	},
-  	{
-		"name": "Grunge",
-		"author": "Randle",
-		"url": "http://i.imgur.com/gqpxuuk.jpg",
-		"downloadable": true
-	},
-	{
-		"name": "Groen",
-		"author": "Randle",
-		"url": "http://i.imgur.com/gncbxTo.jpg",
-		"downloadable": true
 	}
+  	
 ]
