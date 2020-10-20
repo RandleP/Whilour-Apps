@@ -30,22 +30,33 @@
 		"downloadable": true
 	},
 	{
-		"name": "Zwart 1",
+		"name": "Mt Fuji",
 		"author": "Randle",
 		"url": "https://i.imgur.com/9Tj36Uz.jpg",
 		"downloadable": true
 	},
-  
-  	{
-		"name": "Druppels",
-		"author": "Anton Darius on Unsplash",
-		"url": "https://i.imgur.com/TFmB1E0.jpg",
+    	{
+		"name": "Herfst",
+		"author": "Randle",
+		"url": "https://i.imgur.com/uAEO3mE.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Kreuk",
+		"author": "Randle",
+		"url": "https://i.imgur.com/aPnr69i.jpg",
+		"downloadable": true
+	},
+	{
+		"name": "Herfst",
+		"author": "Randle",
+		"url": "https://i.imgur.com/uAEO3mE.jpg",
 		"downloadable": true
 	},
   	{
-		"name": "Druppels",
-		"author": "Anton Darius on Unsplash",
-		"url": "https://i.imgur.com/TFmB1E0.jpg",
+		"name": "Grunge",
+		"author": "Randle",
+		"url": "http://i.imgur.com/gqpxuuk.jpg",
 		"downloadable": true
 	}
 ]
